@@ -1,5 +1,4 @@
-# codigos
-arquivo de estudos e trinamento 
+
 
   #enumerate,list comprehension, map,reduce,zip,filter
   #list comprehension
